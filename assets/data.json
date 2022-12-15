@@ -1,0 +1,28 @@
+{
+    "pajak":[
+        {
+            "nama":"Andi",
+            "kode_negara":"ID",
+            "nama_negara":"Indonesia",
+            "kode_pernikahan": "K1",
+            "status_pernikahan": "Menikah",
+            "status_anak": true,
+            "bruto_bulan" : 30000000,
+            "netto_bulan": 23750000,
+            "pajak_bulan": 3146000
+        },
+        {
+            "nama": "Nguyen",
+            "kode_negara" : "VN",
+            "nama_negara" : "Vietnam",
+            "kode_pernikahan" : "K",
+            "status_pernikahan" : "Menikah",
+            "bruto_bulan" : 30000000,
+            "asuransi_bulan": 1000000,
+            "netto_bulan" : 26500000,
+            "pajak_bulan" : 1779000
+        }
+    ],
+    "status": "ok",
+    "message":""
+}
